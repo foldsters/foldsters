@@ -7,7 +7,7 @@ I build the tooling, agents, and harnesses that turn hard problems into shipped 
 
 ## Selected work
 
-- **[Exact cover — classical and quantum](https://mattgiallourakis.com/work/exact-cover/)** — a best-first Algorithm X (X\*) that yields exact-cover solutions cheapest-first under a cost function, then the same problem reduced to a neutral-atom quantum optimizer and run on Pasqal Cloud. Interactive demo runs in the browser.
+- **[Exact cover — classical and quantum](https://mattgiallourakis.com/work/exact-cover/)** — a best-first Algorithm X (X\*) that yields exact-cover solutions cheapest-first under a cost function, then the same problem reduced to a neutral-atom quantum optimizer, emulated on Pasqal Cloud and validated against the Fresnel QPU spec. Interactive demo runs in the browser.
 - **[A private multi-agent AI system](https://mattgiallourakis.com/work/beacon-vault/)** — an always-on mobile assistant with a tag-based tool protocol, rolling long-term memory, and tiered model routing (on-device → OpenRouter → a private Bedrock/Claude proxy I operate).
 - **[Palettope](https://palettope.app)** ([source](https://github.com/foldsters/som-palette)) — palette extraction by training a self-organizing map over an image on a chosen topological surface (torus, Klein bottle, and more).
 - **[Foldster's Projects](https://mattgiallourakis.com/work/foldsters-projects/)** — customer-facing real-time apps, games, and stream integrations for creators: Convex backends, Twitch/Discord OAuth, OBS browser sources, cross-posting bots.
